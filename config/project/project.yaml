@@ -1,0 +1,22 @@
+dateModified: 1666884752
+email:
+  fromEmail: bob@ongehoord.be
+  fromName: Ongehoord
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    ad2efa4d-7a64-4291-b329-bbde3f85b7be: Ongehoord
+    eb30a142-eb84-473e-bb6f-99613421b607: Common
+    fa76241d-1d29-403a-bf29-3c34c7c08c5b: Ongehoord
+system:
+  edition: solo
+  live: true
+  name: Ongehoord
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

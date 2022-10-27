@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en
+name: Ongehoord
+primary: true
+siteGroup: ad2efa4d-7a64-4291-b329-bbde3f85b7be
+sortOrder: 1
